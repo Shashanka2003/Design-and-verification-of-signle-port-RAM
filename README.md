@@ -40,7 +40,7 @@ This project includes:
 
 The block diagram below shows how the **Testbench** interacts with the **RAM module**.
 
-![RAM Block Diagram](block diagram.jpg)
+![RAM Block Diagram](block_diagram.jpg)
 
 **Signals:**
 - `clk`: Clock signal
